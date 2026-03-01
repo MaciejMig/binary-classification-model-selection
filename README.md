@@ -45,7 +45,7 @@ These numbers are documented in the included project report: [`reports/report.pd
 ```bash
 python -m venv .venv
 # Windows:
-.venv\Scripts\activate
+.\.venv\Scripts\Activate.ps1
 # Linux/macOS:
 source .venv/bin/activate
 

@@ -1,4 +1,4 @@
-# Binary Classification (Artificial Dataset) — model selection & CV
+# Binary Classification (Artificial Dataset) - model selection & CV
 
 Course project for *Introduction to Machine Learning*.  
 Goal: train a binary classifier and generate **probabilities for class 1** for the test set.
